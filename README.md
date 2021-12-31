@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
-     => aoumad@student.1337.ma
+     aoumad@student.1337.ma
      || abderazzakoumad@gmail.com
 
 <!---
