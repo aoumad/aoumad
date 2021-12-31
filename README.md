@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
      => aoumad@student.1337.ma
-     => abderazzakoumad@gmail.com
+     || abderazzakoumad@gmail.com
 
 <!---
 aoumad/aoumad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
