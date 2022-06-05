@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aoumad
-- 👀 I’m interested in competitive programming and Web3.0
+- 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
