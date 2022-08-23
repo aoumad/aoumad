@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aoumad
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning C and C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
      aoumad@student.1337.ma
      || abderazzakoumad@gmail.com
