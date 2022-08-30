@@ -1,5 +1,3 @@
-https://user-images.githubusercontent.com/96908237/187409876-4c7a0cb2-8dbe-4633-95ab-4aac3d90183d.mp4
-
 
 - 👋 Hi, I’m @aoumad
 - 👀 I’m interested in competitive programming
@@ -8,7 +6,13 @@ https://user-images.githubusercontent.com/96908237/187409876-4c7a0cb2-8dbe-4633-
      aoumad@student.1337.ma
      || abderazzakoumad@gmail.com
 
-<!---
-aoumad/aoumad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Connect with Me
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/abderazzak-oumad-b8a432237/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://twitter.com/AbderazzakOumad">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
