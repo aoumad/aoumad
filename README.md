@@ -1,4 +1,6 @@
-
+  
+  <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> • 
+  
 - 👋 Hi, I’m @aoumad
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning C and C++
