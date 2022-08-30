@@ -1,6 +1,6 @@
-<div id="header" align="center">
-  <video src="https://preview.redd.it/9t6vpxbntl991.gif?format=mp4&s=f11d0645b87168613f0d109f437e21c90563a184" width="100"/>
-</div>
+https://user-images.githubusercontent.com/96908237/187409876-4c7a0cb2-8dbe-4633-95ab-4aac3d90183d.mp4
+
+
 - 👋 Hi, I’m @aoumad
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning C and C++
