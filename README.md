@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/96908237/187419125-1673dabd-6a33-4628-b8de-9ee277c30033.jpeg)
 </h3> --> 
  
- [![160744959694494596](https://user-images.githubusercontent.com/96908237/187423420-d10e04ce-ec37-41e9-b44e-993650ba70ed.jpeg)](https://github.com/aoumad?tab=repositories)
+ [![160744959694494596](https://user-images.githubusercontent.com/96908237/187424576-1d9ef7b0-3233-48fc-8879-98b7d2f58b26.PNG)](https://github.com/aoumad?tab=repositories)
  
 - 👋 Hi, I’m @aoumad
 - 👀 I’m interested in competitive programming
