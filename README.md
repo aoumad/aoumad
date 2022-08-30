@@ -6,7 +6,7 @@
  
 ## root:~$ whoami
 
-[![aoumad's 42 stats](https://badge.mediaplus.ma/darkblue/aoumad)](https://github.com/oakoudad/badge42)
+[![aoumad's 42 stats](https://badge.mediaplus.ma/darkblue/aoumad)](https://github.com/aoumad/42_cursus)
  
  ### Talking about Personal Stuffs:
 
