@@ -1,5 +1,8 @@
-  
-  <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> • 
+  <!--<h3 align="center">
+![image](https://user-images.githubusercontent.com/96908237/187419125-1673dabd-6a33-4628-b8de-9ee277c30033.jpeg)
+
+)
+</h3> --> 
   
 - 👋 Hi, I’m @aoumad
 - 👀 I’m interested in competitive programming
