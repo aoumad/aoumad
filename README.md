@@ -8,9 +8,13 @@
 
 [![aoumad's 42 stats](https://badge.mediaplus.ma/darkblue/aoumad)](https://github.com/aoumad/42_cursus)
 
-   <br>
-  <a href="https://github.com/aoumad/aoumad?tab=repositories](https://github.com/aoumad/aoumad?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoumad&theme=dark"/>
+<a href="https://github.com/aoumad?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoumad&theme=dark"/>
+</a>
+
+
+<a href="https://github.com/aoumad?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=aoumad&line_height=40&show_icons=true&theme=dark">
  
  ### Talking about Personal Stuffs:
 
