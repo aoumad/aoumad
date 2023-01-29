@@ -6,7 +6,7 @@
  
 ## root:~$ whoami
 
-[![aoumad's 42 stats](https://badge.mediaplus.ma/darkblue/aoumad)](https://github.com/aoumad/42_cursus)
+[![aoumad's 42 stats](https://badge.mediaplus.ma/greenbinary/aoumad)](https://github.com/aoumad/42_cursus)
 
 <a href="https://github.com/aoumad?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoumad&theme=dark"/>
