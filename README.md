@@ -18,8 +18,9 @@
  
  ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with C, C++ and Java.
-- 🚀 &nbsp; I’m currently trying to get advanced on data structure and Algorithms, you will everything about it in this [Repo](https://github.com/aoumad/Cpc) .
+- 🛠 &nbsp; I’m currently working with Javascript and Node.js to level up my knowledge in backend area.
+- 🛠 &nbsp; C, C++ and Java are the languages i have been using for more than a year and a half for my school projects.
+- 🚀 &nbsp; I’m currently trying to get advanced on data structure and Algorithms, you will find everything about it in this [Repo](https://github.com/aoumad/Cpc) .
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/aoumad?tab=repositories).
 - 📫 How to reach me :
      aoumad@student.1337.ma
@@ -27,7 +28,7 @@
      
 ### My Absolute Favorites:
 
-- 💻 &nbsp; My main focus and desire at the moment is to become a very talented software engineer who has a deep understanding of Algorithms and Data structure.
+- 💻 &nbsp; My main focus and desire at the moment is to become a very talented software engineer who has a deep understanding of Algorithms and Data structure and everything that has a hands on Backend.
 - 👀 I’m interested in competitive programming
 
 ### Projects and Dev Stuffs:
