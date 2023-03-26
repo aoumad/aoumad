@@ -8,14 +8,10 @@
 
 [![aoumad's 42 stats](https://badge.mediaplus.ma/greenbinary/aoumad)](https://github.com/aoumad/42_cursus)
 
-<a href="https://github.com/aoumad?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoumad&theme=dark"/>
-</a>
+[![Languages](https://github-readme-stats.vercel.app/api?username=aoumad&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&hide=issues&card_width=300)](https://github.com/aoumad)
 
+ [![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=aoumad&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/aoumad)
 
-<a href="https://github.com/aoumad?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aoumad&line_height=40&show_icons=true&theme=dark">
- 
  ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Javascript and Node.js to level up my knowledge in backend area.
