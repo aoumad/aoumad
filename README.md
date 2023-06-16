@@ -1,9 +1,7 @@
 <!--<h3 align="center">
 ![image](https://user-images.githubusercontent.com/96908237/187419125-1673dabd-6a33-4628-b8de-9ee277c30033.jpeg)
-</h3> --> 
- 
- [![160744959694494596](https://user-images.githubusercontent.com/96908237/187424576-1d9ef7b0-3233-48fc-8879-98b7d2f58b26.PNG)](https://github.com/aoumad?tab=repositories)
- 
+</h3> -->
+
 ## root:~$ whoami
 
 [![aoumad's 42 stats](https://badge.mediaplus.ma/greenbinary/aoumad)](https://github.com/aoumad/42_cursus)
