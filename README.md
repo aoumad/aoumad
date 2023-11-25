@@ -10,6 +10,8 @@
 
  [![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=aoumad&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/aoumad)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/aoumad8?theme=nord)
+
  ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Javascript and Node.js to level up my knowledge in backend area.
