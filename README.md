@@ -14,9 +14,9 @@
 
  ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Javascript and Node.js to level up my knowledge in backend area.
-- 🛠 &nbsp; C, C++ and Java are the languages i have been using for more than a year and a half for my school projects.
-- 🚀 &nbsp; I’m currently trying to get advanced on data structure and Algorithms, you will find everything about it in this [Repo](https://github.com/aoumad/Cpc) .
+- 🛠 &nbsp; I am currently working with Typescript/Javascript && ReactJs/NextJS to level my knowledge in Front-End field.
+- 🛠 &nbsp; C, C++ and Java are the languages i have been using for more than two years for my school projects.
+- 🚀 &nbsp; I’m currently trying to get advanced on data structure and Algorithms, you will find everything about it in this [Repo](https://github.com/aoumad/Cpc) && this [Repo](https://github.com/aoumad/Leetcode) .
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/aoumad?tab=repositories).
 - 📫 How to reach me :
      aoumad@student.1337.ma
@@ -24,18 +24,8 @@
      
 ### My Absolute Favorites:
 
-- 💻 &nbsp; My main focus and desire at the moment is to become a very talented software engineer who has a deep understanding of Algorithms and Data structure and everything that has a hands on Backend.
+- 💻 &nbsp; My main focus and desire at the moment is to become a very talented software engineer who has a deep understanding of Data structure / Algorithms and frontand latest technologies and everything that has a hands on Web field.
 - 👀 I’m interested in competitive programming
-
-### Projects and Dev Stuffs:
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aoumad_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoumad_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
 
 ## Connect with Me
 
